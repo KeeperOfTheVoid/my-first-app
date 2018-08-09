@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/8dc1ff867fd78f79cfe1f7d0b6cc75b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3f02e7e2ba5cd2e089f7535c0c34d95d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/ec20eeef34043bf8912fa92774504ca7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/88e894ad2cbc6c69dab27fafc9c46116/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/64917379c8318e500acda4019fbaf2a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/7fb993a22ea90667bf3a6de48b9967c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/5990272aefa32217b4dd692d7541a43f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/d44876a0986c35ee604a74446c34752a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/0030c98afe2623c588f1467ee32bee2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/8c286e9afcd8cdca410cfdcd7b3af3ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/b1559b9e43c5f934c73ec0f4919eb23b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/abeb0f32621ebd2cf527565a3f4304a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/0ac1c87112673f73cca1d587bb16bd77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/3c1ea0bb5fe087a7a6ebf040819b355b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/ca31960897423ec075bb8454068fd908/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/2ef0325613d99de6c567fddbae1ed069/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/b2ab219ab70ecf67d515b572079022c9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3f3eb461638b88ba5858169de385cfb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/1884bd5aaa8eac8bf04fafd4727704a6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/add1b09e450bc31f652c320b440bdac2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/c015f4463e236d27e0f3b27df8c8b205/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/1bcc6bb8d337313e4ef6e93440151e30/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a29b7f93b10ec73b429d32523562c457/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9002c81793adca72ce30f7acf6c2b254/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/db8e843c3f593073224c61df7a5f2226/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/45577eebc9d62fbbffb1ffb93ba0534c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3f02e7e2ba5cd2e089f7535c0c34d95d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3f02e7e2ba5cd2e089f7535c0c34d95d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/2ef0325613d99de6c567fddbae1ed069/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/2ef0325613d99de6c567fddbae1ed069/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/1884bd5aaa8eac8bf04fafd4727704a6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/1884bd5aaa8eac8bf04fafd4727704a6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/2ef0325613d99de6c567fddbae1ed069/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.app.keeperofthevoid.myfirstapp.MainActivity
+ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.app.keeperofthevoid.myfirstapp.SecondActivity
+ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/8dc1ff867fd78f79cfe1f7d0b6cc75b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-beta01.aar/8dc1ff867fd78f79cfe1f7d0b6cc75b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3f02e7e2ba5cd2e089f7535c0c34d95d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3f02e7e2ba5cd2e089f7535c0c34d95d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/ec20eeef34043bf8912fa92774504ca7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-beta01.aar/ec20eeef34043bf8912fa92774504ca7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/88e894ad2cbc6c69dab27fafc9c46116/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-beta01.aar/88e894ad2cbc6c69dab27fafc9c46116/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/64917379c8318e500acda4019fbaf2a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-beta01.aar/64917379c8318e500acda4019fbaf2a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/7fb993a22ea90667bf3a6de48b9967c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-beta01.aar/7fb993a22ea90667bf3a6de48b9967c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/5990272aefa32217b4dd692d7541a43f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-beta01.aar/5990272aefa32217b4dd692d7541a43f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/d44876a0986c35ee604a74446c34752a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-beta01.aar/d44876a0986c35ee604a74446c34752a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/0030c98afe2623c588f1467ee32bee2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-beta01.aar/0030c98afe2623c588f1467ee32bee2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/8c286e9afcd8cdca410cfdcd7b3af3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-beta01.aar/8c286e9afcd8cdca410cfdcd7b3af3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/b1559b9e43c5f934c73ec0f4919eb23b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-beta01.aar/b1559b9e43c5f934c73ec0f4919eb23b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/abeb0f32621ebd2cf527565a3f4304a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-beta01.aar/abeb0f32621ebd2cf527565a3f4304a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/0ac1c87112673f73cca1d587bb16bd77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-beta01.aar/0ac1c87112673f73cca1d587bb16bd77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/3c1ea0bb5fe087a7a6ebf040819b355b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-beta01.aar/3c1ea0bb5fe087a7a6ebf040819b355b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/ca31960897423ec075bb8454068fd908/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-beta01.aar/ca31960897423ec075bb8454068fd908/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/2ef0325613d99de6c567fddbae1ed069/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-beta01.aar/2ef0325613d99de6c567fddbae1ed069/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/b2ab219ab70ecf67d515b572079022c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-beta01.aar/b2ab219ab70ecf67d515b572079022c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3f3eb461638b88ba5858169de385cfb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3f3eb461638b88ba5858169de385cfb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/1884bd5aaa8eac8bf04fafd4727704a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-beta01.aar/1884bd5aaa8eac8bf04fafd4727704a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/add1b09e450bc31f652c320b440bdac2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-beta01.aar/add1b09e450bc31f652c320b440bdac2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/c015f4463e236d27e0f3b27df8c8b205/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-beta01.aar/c015f4463e236d27e0f3b27df8c8b205/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/1bcc6bb8d337313e4ef6e93440151e30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/print-28.0.0-beta01.aar/1bcc6bb8d337313e4ef6e93440151e30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a29b7f93b10ec73b429d32523562c457/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a29b7f93b10ec73b429d32523562c457/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9002c81793adca72ce30f7acf6c2b254/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9002c81793adca72ce30f7acf6c2b254/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/db8e843c3f593073224c61df7a5f2226/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/db8e843c3f593073224c61df7a5f2226/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/45577eebc9d62fbbffb1ffb93ba0534c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] /home/keeperofthevoid/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-beta01.aar/45577eebc9d62fbbffb1ffb93ba0534c/AndroidManifest.xml:20:5-44
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/keeperofthevoid/Documents/Projects/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
